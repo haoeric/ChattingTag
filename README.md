@@ -1,4 +1,4 @@
-# chat tagging project
+# chatting tag project
 # haoeric, 5 Jul 2014
 
 This project aimed to develop a optimized tagging system for the common used chatting apps, such as QQ, weChat, etc.
